@@ -1,16 +1,20 @@
-## Hi there 👋
+# Hi, I'm Sanjit Bhagat 👋
 
-<!--
-**sanjit-bhagat/sanjit-bhagat** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## 👨‍💻 About Me
+Fresher Python Developer with hands-on experience in FastAPI, Flask, Pandas, NumPy, and Streamlit. Passionate about backend development and data-driven applications.
 
-Here are some ideas to get you started:
+## 🛠 Skills
+- Python
+- FastAPI, Flask
+- Pandas, NumPy
+- Streamlit
+- MySQL
+- Git & GitHub
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 📌 Projects
+- **Pollution Control by Identifying Potential Land for Afforestation**
+  - Python | Pandas | NumPy | Streamlit
+  - Data analysis and dashboard development for environmental planning
+
+## 📫 Connect With Me
+- LinkedIn: https://linkedin.com/in/yourprofile
