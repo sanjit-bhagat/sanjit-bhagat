@@ -2,7 +2,7 @@
 
 ## 🚀 About Me
 
-Aspiring DevOps Engineer passionate about automation, cloud technologies, CI/CD pipelines, and infrastructure management. Currently learning and building hands-on projects in Linux, Docker, Kubernetes, AWS, Terraform, and DevOps tools.
+ DevOps Engineer passionate about automation, cloud technologies, CI/CD pipelines, and infrastructure management. Currently learning and building hands-on projects in Linux, Docker, Kubernetes, AWS, Terraform, and DevOps tools.
 
 ---
 
